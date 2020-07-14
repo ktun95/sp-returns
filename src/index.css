@@ -1,14 +1,18 @@
-html {
+/* html {
   overflow-y: scroll;
 }
 
 body {
   margin: 0;
-  font-family: "Segoe UI", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+  font-family: "Roboto", Calibri, Candara, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: #d7f0e8;
   box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
 }
 
 code {
@@ -22,6 +26,10 @@ table {
   margin: auto;
   border-spacing: 0;
   box-shadow: 3px 3px 5px #a1c8c2;
+}
+
+th {
+  font-weight: 100;
 }
 
 tr {
@@ -50,4 +58,4 @@ td {
   padding-right: 10px;
   box-sizing: border-box;
   box-shadow: 3px 3px 5px #a1c8c2
-}
+} */
