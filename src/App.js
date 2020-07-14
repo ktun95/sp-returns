@@ -37,7 +37,7 @@ function App() {
       </Container>
       <table>
         <thead>
-          <tr>
+          <tr className='header'>
             <th>Year</th>
             <th>Total Return</th>
             <th>Cumulative Returns</th>

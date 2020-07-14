@@ -37,6 +37,10 @@ tr {
   border-bottom: 1px solid rgba(169, 169, 169, 0.4);
 }
 
+tr:not(.header):hover{
+  background: #fcff3e
+}
+
 td {
   text-align: center;
   min-width: 5rem;
